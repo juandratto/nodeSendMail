@@ -1,0 +1,12 @@
+{
+    "name": "sendemail",
+    "version": "1.0.0",
+    "description": "sending emails from Angular through Node.js",
+    "main": "server.js",
+    "dependencies": {
+      "nodemailer": "<latest-version>",
+      "express": "<latest-version>",
+      "body-parser": "<latest-version>",
+      "cors": "<latest-version>"
+    }
+}
